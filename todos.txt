@@ -1,7 +1,8 @@
 Play
 Study
 Work
+Make Pizza
+ControlMaster Java
+Buy Juice
 Run
-Make pizza
-Make soup
-Master Python
+Walk
