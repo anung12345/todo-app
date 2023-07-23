@@ -1,8 +1,5 @@
 Play
 Study
 Work
-Make Pizza
-ControlMaster Java
 Buy Juice
-Run
 Walk

@@ -1,5 +1,6 @@
 /venv/
 .idea
+zip_creator.py
 bonus1.py
 bonus2.py
 bonus2.2.py
