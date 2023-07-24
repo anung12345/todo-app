@@ -1,6 +1,7 @@
 /venv/
 .idea
 zip_creator.py
+zip_extractor.py
 bonus1.py
 bonus2.py
 bonus2.2.py
@@ -17,3 +18,4 @@ bonus12.py
 bonus13.py
 bonus15.py
 bonus16.py
+bonus18.py
